@@ -9,7 +9,9 @@
 /* Debounce reduces chatter (unintended double-presses) - set 0 if debouncing is not needed */
 #define DEBOUNCE 5
 
-
+/* Encoders */
+/* #define ENCODERS_PAD_A { B1, B2 } *\
+/* #define ENCODERS_PAD_B { F7, B3 } *\
 
 /* 8 layers */
 #define DYNAMIC_KEYMAP_LAYER_COUNT 8
