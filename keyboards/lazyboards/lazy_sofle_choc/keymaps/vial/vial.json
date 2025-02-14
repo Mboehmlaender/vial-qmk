@@ -1,16 +1,13 @@
 {
-    "name": "Sofle",
-    "vendorId": "0xFC32",
-    "productId": "0x0287",
+    "name": "LazySofleChoc",
     "lighting": "vialrgb",
-    "matrix": { "rows": 10, "cols": 6 },
+    "matrix": { 
+        "rows": 10, 
+        "cols": 6 
+    },
     "layouts": {
-        "keymap": [
-            {
-                "name": "SofleKeyboard",
-                "author": "Josef Adamcik",
-                "switchMount": "cherry"
-            },
+        "keymap": 
+        [
             [
                 {
                     "x": 6.25,
@@ -324,43 +321,6 @@
                     "fa": [1]
                 },
                 "8,0"
-            ],
-            [
-                {
-                    "y": -0.15000000000000036,
-                    "x": 2.75,
-                    "f": 9,
-                    "fa": [1]
-                },
-                "4,1",
-                "4,2",
-                {
-                    "x": 5.5
-                },
-                "9,2"
-            ],
-            [
-                {
-                    "y": -0.8499999999999996,
-                    "x": 1.75
-                },
-                "4,0"
-            ],
-            [
-                {
-                    "rx": 0.25,
-                    "y": 4.35,
-                    "x": 11
-                },
-                "9,1"
-            ],
-            [
-                {
-                    "rx": 0.5,
-                    "y": 4.5,
-                    "x": 11.75
-                },
-                "9,0"
             ],
             [
                 {

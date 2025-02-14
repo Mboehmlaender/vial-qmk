@@ -1,0 +1,6 @@
+#pragma once
+
+#define VIAL_KEYBOARD_UID {0x99, 0x82, 0xB1, 0x37, 0xA0, 0xF8, 0xE3, 0xDB}
+#define SPLIT_USB_DETECT
+#define DYNAMIC_KEYMAP_LAYER_COUNT 5
+#define DYNAMIC_KEYMAP_MACRO_COUNT 4
